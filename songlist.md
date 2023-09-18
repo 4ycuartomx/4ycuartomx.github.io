@@ -34,6 +34,7 @@ Te complacenos con cualquier rolita que ande en esta lista, seguimos aumentando 
 * Sognare
 * Sismo
 * Luces de esta ciudad
+* Humanos como tu
 
 ## Moderatto
 * No podras
@@ -50,12 +51,17 @@ Te complacenos con cualquier rolita que ande en esta lista, seguimos aumentando 
 * Fixion
 * Te puedes matar
 
+## Los concorde
+* Rompecabezas
+
 ## Enjambre
 * Visita
 * Dulce soledad
 
 ## DLD
 * Mi vida
+* Por siempre
+* Dixie
 
 ## Zoe
 * Via lactea
@@ -73,5 +79,24 @@ Te complacenos con cualquier rolita que ande en esta lista, seguimos aumentando 
 * Hoy tengo miedo
 
 ## Baby aventurero
-
 * No se va
+
+## Las clasicas de rock bar
+* Música ligera
+* El son del dolor
+* La chispa adecuada
+* Te quiero
+* Lamentó boliviano
+* Sabor a chocolate
+* El final
+* Cielo
+* Creep
+* La planta
+* Beber de tu sangre
+* Have you ever seen
+* Last kiss
+* Maldito duende
+* Entre dos tierras
+* Las mañanitas
+* Con todos menos conmigo
+* Hombre lobo en paris
