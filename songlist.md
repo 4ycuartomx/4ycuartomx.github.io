@@ -22,6 +22,7 @@ Te complacenos con cualquier rolita que ande en esta lista, seguimos aumentando 
 * Enfermedad en casa
 * Nuestra afliccion
 * So violento so macabro
+* 3 + 1 (proximamente)
 
 ## Allison
 * Aqui
@@ -29,6 +30,7 @@ Te complacenos con cualquier rolita que ande en esta lista, seguimos aumentando 
 * Fragil
 * Memorama
 * Baby please
+* 80's (proximamente)
 
 ## Division minuscula
 * Sognare
@@ -68,6 +70,8 @@ Te complacenos con cualquier rolita que ande en esta lista, seguimos aumentando 
 
 ## My Chemical Romance
 * Helena
+* I don't love you (proximamente)
+* The ghost of you (proximamente)
 
 ## Delux
 * Mas de lo que te imaginas
